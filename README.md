@@ -1,2 +1,2 @@
 # acm
-codes of some onlinejudges
+It's used to store codes of some onlinejudges,such as codeforces,hdoj and so on.
