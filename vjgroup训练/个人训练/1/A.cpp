@@ -59,7 +59,7 @@ int main(){
 		}
 		sort(s + 1,s + 1 + n);
 		build(1,1,n);
-		int ans = 2e9 + 5;
+		int ans = maxv[1];
 		for(int i = 1;i <= n;i++){
 			update(1,1,n,i);
 			ans = min(ans,s[i].a + maxv[1]);
