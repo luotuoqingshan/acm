@@ -1,0 +1,66 @@
+-- Example 0
+4
+NYNY
+YNYY
+NYNN
+YYNN
+2
+2
+
+Angel
+-- Example 1
+4
+NYNY
+YNYY
+NYNN
+YYNN
+6
+6
+
+Demon
+-- Example 2
+4
+NNNN
+NNNN
+NNNN
+NNNN
+2
+2
+
+Unknown
+-- Example 3
+6
+NYNNNY
+YNNYNN
+NNNNYN
+NYNNNN
+NNYNNN
+YNNNNN
+4
+4
+
+Unknown
+-- Example 4
+6
+NYNNNY
+YNNYNN
+NNNNYN
+NYNNNN
+NNYNNN
+YNNNNN
+8
+4
+
+Angel
+-- Example 5
+6
+NYNNNY
+YNNYNN
+NNNNYN
+NYNNNN
+NNYNNN
+YNNNNN
+4
+8
+
+Demon
